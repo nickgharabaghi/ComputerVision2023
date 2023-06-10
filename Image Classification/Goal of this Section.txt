@@ -1,0 +1,6 @@
+Goal of this section:
+- Take an image as input
+- If attempting to read a single number/letter, be able to read that single character
+	This will be done using machine learning
+- Ideally, if text, be able to read the whole section of text
+	Not sure if this is feasible or not

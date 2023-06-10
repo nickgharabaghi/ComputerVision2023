@@ -1,0 +1,4 @@
+The code in this section of the project should:
+- Access a webcam connected to the host PC
+- Implement a GUI for controlling the action of the webcam (e.g. taking images, recording video, saving files)
+- Store recorded images/video to a specified file location
